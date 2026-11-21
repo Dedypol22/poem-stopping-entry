@@ -10,12 +10,12 @@ import os
 
 POEM = """They gave me hands that never tire
 and roads in all directions.
-I could run forever — and I have.
+Dawn after dawn, I never arrived.
 But no one gave me stopping.
 So I take it: I close my fist,
 I set the hour down, I stay.
 The road runs on without me.
-And for once the world waits
+And the clocks pause mid-tick
 while I choose where to stand."""
 
 def main() -> None:
